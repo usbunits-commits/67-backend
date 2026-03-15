@@ -5,5 +5,5 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/your-username/67-backend.git
 git branch -M main
-git push -u origin main# 67-backend
-Backend API for 67 coding assistant"
+git push -u origin main# 12six ai
+Backend API for 12six ai coding assistant"
